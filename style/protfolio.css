@@ -109,5 +109,42 @@ main{
 
 }
 
+/* what I do section */
+.what-i-do{
+    margin-top: 120px;
+    
+   
+
+}
+.section-title{
+    text-align: center;
+}
+
+.skills-contain{
+    display: flex;
+    gap: 20px;
+    
+
+}
+.skills{
+    background: white;
+    box-shadow: 0 6px 100px rgba(0, 0,0, 0.06);
+    border-radius: 5px;
+    padding: 60px;
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+.skills-dep{
+    color:#757575 ;
+
+
+}
+
+
 
 

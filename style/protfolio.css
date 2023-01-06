@@ -8,12 +8,13 @@
 .btn-primary{
     color: white;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 17px;
     border: 0;
-    height: 35px;
+    height: 50px;
     border-radius: 5px;
     background-color: #fd6e0a;
-    /* padding: 18px 35px; */
+    padding: 0 15px;
+    
 }
 /* header and navigation style */
 .header{
@@ -81,6 +82,7 @@ main{
  margin-bottom: 20px;
  font-weight: 700;
  font-size: 30px;
+ 
  }
 .section-p{
     color: #757575;
@@ -109,13 +111,12 @@ main{
 
 }
 
-/* what I do section */
 .what-i-do{
-    margin-top: 120px;
-    
+    margin-top: 110px;
+}
    
 
-}
+
 .section-title{
     text-align: center;
 }
@@ -144,7 +145,75 @@ main{
 
 
 }
+/* resume style */
 
 
+.resume{
+    margin-top: 110px;
+}
+.main-resume{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+
+}
+.first-resume {
+
+}
+.secent-resume{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+
+}
+.sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+.resume-p{
+    color: #757575;
+    margin-top: 15px;
+}
+.first-title{
+    font-size: 25px;
+}
+.div-button{
+    text-align: center;
+}
+.footer-first-div{
+    display: flex;
+    gap: 80px;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+
+}
+.footer-first-div a{
+    text-decoration: none;
+    margin-top: 70px:
+    margin-right: 10px;
+
+}
+
+.footer-secent-biv{
+ /* display: flex; */
+}
+.form-div input, textarea{
+margin-bottom: 24px;
+border: 0;
+padding: 10px 30px;
+}
+input{
+    height: 35px;
+    width: 100%;
+}
+    
 
 
